@@ -17,4 +17,4 @@ My responsibilities included developing the input parsing logic, implementing pr
 
 From this project, I gained significant experience with low-level systems programming in C++, deepened my understanding of how Unix shells function, and developed a strong grasp of process management, memory handling, and file descriptor manipulation. I also became more comfortable debugging concurrency issues and structuring complex programs in modular functions. Working on this shell taught me the importance of graceful termination, resource management, and how thoughtful user interface design (even in a terminal) can enhance usability. Overall, LopeShell was a valuable deep-dive into the operating system's interface layer and gave me hands-on experience building from scratch what most users take for granted.
 
-[You can view the source code for this project here]([https://github.com/HunterCay/CST-315/blob/main/ImprovedCLI.cpp]).
+You can view the [source code here](https://github.com/HunterCay/CST-315/blob/main/ImprovedCLI.cpp).
