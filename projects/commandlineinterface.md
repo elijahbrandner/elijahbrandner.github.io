@@ -1,8 +1,8 @@
 ---
 layout: project
 type: project
-image: img/CLInterface.png
-title: "Command Line Interface"
+image: img/CL.png
+title: "Command Line Interpreter"
 date: 2025-02-09
 published: true
 labels:
