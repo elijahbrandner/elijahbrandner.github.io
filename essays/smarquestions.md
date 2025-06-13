@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Smart Questions, Smart Engineers"
+title: "Smarter Questions, Smarter Communication"
 # All dates must be YYYY-MM-DD format!
 date: 2025-06-13
 published: true
