@@ -7,6 +7,10 @@ date: 2025-06-26
 published: true
 labels:
   - Software Engineering
+  - Coding Standards
+  - ESLint
+  - VSCode
+  - Code Quality
 ---
 
 When learning a new programming language, all the new information can be overwhelming. There's new syntax, tools, and rules that all tend to blur together. For me, one thing that helps clear the fog is consistency. This is why I believe coding standards play a big role in learning a new language. If there's a predictable way to structure code correctly, it becomes easier to understand what's exactly happening and why. This structure gives you a mental framework to rely on and fall back upon. When it comes time to apply what you have learned, you don't have to waste energy deciphering a mess between different styles of code. You just utilize the standards that you have learned and practice, and they guide you.
