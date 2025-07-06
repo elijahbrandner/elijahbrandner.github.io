@@ -21,6 +21,14 @@ The first time I used Bootstrap 5 was in a BrowserHistory assignment. I had alre
 
 As we moved on to more assignments utilizing Bootstrap, where we replicated the UI of the IslandSnow website and another website of our own selection, Bootstrap started making more and more sense. Those assignments, where we broke down a website's UI into clear sections such as the top section and navigation bar, the middle content, and the footer of the website, helped me build confidence. The replication of a website's UI of our own selection especially stood out to me because I got to choose a real site to replicate with no step-by-step guide on exactly what to do. That freedom made it fun and helped everything click.
 
+![Manuheali‘i website recreation using Bootstrap 5](/img/manuhealiiwebsite.png)
+
+*Figure 1: My recreation of the Manuheali‘i homepage using Bootstrap 5, as part of the YourChoice assignment.*
+
+![Bootstrap 5 version of the Manuheali‘i homepage](/img/manuhealiirep.png)
+
+*Figure 2: A closer look at the layout I built using Bootstrap 5 components.*
+
 ###Why Not Just Use HTML and CSS?
 To be honest, I haven't worked a lot with just raw HTML and CSS outside of small assignments. But from what I can tell, while it gives you full control, it can be time-consuming and tricky—especially when it comes to responsiveness and layout. Writing all the CSS rules from scratch and making sure they work across different devices can be tough.
 
