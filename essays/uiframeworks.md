@@ -49,8 +49,3 @@ Even though learning a framework can be challenging at first, it pays off by spe
 
 ### Final Thoughts
 Learning Bootstrap 5 helped me discover how much I enjoy UI design. It showed me that coding isn't just about logic—it can also be creative. Now that I understand how to use frameworks like Bootstrap, I feel more confident building clean, responsive websites. It's a tool I'll definitely keep using as I grow as a software engineer.
-
-
-<img src="/img/manuhealiiwebsite.png" alt="Manuheali‘i website recreation using Bootstrap 5" style="max-width: 800px; width: 100%; display: block; margin: 0 auto;">
-
-<p style="text-align: center; font-size: 0.9em; color: #555;"></p>
