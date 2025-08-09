@@ -10,7 +10,7 @@ labels:
 ---
 
 ## I. Introduction
-Artificial Intelligence (AI) has slowly worked its way into education, and now it’s everywhere. For software engineering especially, it’s like having an extra teammate who never sleeps. In ICS 314, I leaned heavily on **GitHub Copilot** as my main AI tool, and only pulled out **ChatGPT** when I needed a deeper explanation, a second opinion, or a quick research boost. Copilot lived right inside my code editor, finishing lines for me, sometimes even before I finished thinking them. ChatGPT, on the other hand, felt more like a “sit down and talk it out” type of assistant. Between the two, they made learning smoother, but never fully replaced the work I had to put in.
+Artificial Intelligence (AI) has slowly worked its way into education, and now it’s everywhere. For software engineering especially, it’s like having an extra teammate who never sleeps. In ICS 314, I leaned on **GitHub Copilot** as my main AI tool, and only pulled out **ChatGPT** when I needed a deeper explanation, a second opinion, or a quick research boost. Copilot lived right inside my code editor, finishing lines for me, sometimes even before I finished thinking them. ChatGPT, on the other hand, felt more like a “sit down and talk it out” type of assistant. Between the two, they made learning smoother, but never fully replaced the work I had to put in.
 
 ---
 
@@ -25,7 +25,7 @@ Helpful, but still required tweaking for the WOD’s rules.
 Copilot here was just a speed boost. I’d start writing a function, pause, and boom — it filled in the rest in a way I was already planning to do. Nice when the clock’s ticking.
 
 **3. In-class WODs**  
-I stayed away from AI for these. Part of the challenge was seeing if I could actually do it on my own, under pressure.
+Copilot was again just a speed boost here. Definetely helped with meeting the time requirements. However, I tried to limit the usage of copilot in these assignments. Part of the challenge was seeing if I could actually do it on my own, under pressure.
 
 **4. Essays**  
 When I wrote essays like E63 (Reflect on Design Patterns), ChatGPT was my brainstorming partner:  
