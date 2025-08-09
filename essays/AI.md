@@ -2,7 +2,6 @@
 layout: essay
 type: essay
 title: "AI In ICS-314"
-# All dates must be YYYY-MM-DD format!
 date: 2025-09-09
 published: true
 labels:
@@ -11,98 +10,98 @@ labels:
 ---
 
 ## I. Introduction
-Artificial Intelligence (AI) has increasingly become an integral part of education, offering students new ways to learn, problem-solve, and create. In software engineering, AI tools like GitHub Copilot and ChatGPT can act as real-time coding partners, research assistants, and debugging aids. Throughout ICS 314, my primary AI tool was **GitHub Copilot**, which integrated directly into my coding environment and offered in-line suggestions while I worked. Copilot often anticipated the code I intended to write, speeding up development without replacing my understanding of the material. I used **ChatGPT** occasionally for broader explanations, debugging help, and clarifying concepts that Copilot couldn’t fully explain. Together, these tools became valuable supplements to the course’s lectures, WODs, and projects.
+Artificial Intelligence (AI) has slowly worked its way into education, and now it’s everywhere. For software engineering especially, it’s like having an extra teammate who never sleeps. In ICS 314, I leaned heavily on **GitHub Copilot** as my main AI tool, and only pulled out **ChatGPT** when I needed a deeper explanation, a second opinion, or a quick research boost. Copilot lived right inside my code editor, finishing lines for me, sometimes even before I finished thinking them. ChatGPT, on the other hand, felt more like a “sit down and talk it out” type of assistant. Between the two, they made learning smoother, but never fully replaced the work I had to put in.
 
 ---
 
 ## II. Personal Experience with AI
 
 **1. Experience WODs (e.g., E18)**  
-For assignments like E18 or E49, Copilot provided in-line code completions as I typed. For example, when working on TypeScript array methods, Copilot would sometimes suggest exactly the filter/map logic I had in mind, letting me move faster. ChatGPT came in when I needed to double-check syntax or logic, such as:  
+When I was doing WODs like E18 or E49, Copilot would often guess exactly what I wanted to write. For example, I’d start typing some `map` and `filter` logic, and before I could finish, it would complete the rest. ChatGPT only came in when I got stuck and needed something spelled out, like:  
 > "In TypeScript, how do I combine `map` and `filter` on an array of numbers?"  
-This was helpful but still required adjusting to fit the WOD’s constraints.
+Helpful, but still required tweaking for the WOD’s rules.
 
 **2. In-class Practice WODs**  
-During practice WODs, I mostly relied on Copilot for small syntax hints. If I started typing a function and hesitated, Copilot would often complete the rest, matching my intended logic. This was useful for keeping momentum without stopping to search the web.
+Copilot here was just a speed boost. I’d start writing a function, pause, and boom — it filled in the rest in a way I was already planning to do. Nice when the clock’s ticking.
 
 **3. In-class WODs**  
-I avoided AI here since the purpose was to test my independent skills under time pressure. I wanted to challenge myself to recall concepts without external help.
+I stayed away from AI for these. Part of the challenge was seeing if I could actually do it on my own, under pressure.
 
 **4. Essays**  
-For essays like E63 (Reflect on Design Patterns), I occasionally used ChatGPT to help brainstorm a clear structure:  
+When I wrote essays like E63 (Reflect on Design Patterns), ChatGPT was my brainstorming partner:  
 > "Help me outline an essay about MVC and reusable components in Next.js."  
-From there, I wrote the content myself to ensure it reflected my own thoughts and experiences.
+I still wrote it myself, but the outline made it easier to start.
 
 **5. Final Project**  
-In the DropBy project, Copilot was especially useful for speeding up repetitive code, like generating form-handling logic or writing fetch requests to Supabase. ChatGPT came in when I needed clarification on topics like:  
+For DropBy, Copilot was my go-to for repetitive code — form handlers, fetch requests to Supabase, things like that. ChatGPT helped me understand things Copilot couldn’t explain, like:  
 > "How do I query data from Supabase in a Next.js API route?"  
-I adapted these examples to work with our authentication flow.
+From there, I adapted the example to our setup.
 
 **6. Learning a Concept / Tutorial**  
-When learning Bootstrap and Next.js, I sometimes asked ChatGPT:  
+When I was figuring out Bootstrap and Next.js, I asked ChatGPT:  
 > "Explain how to create a responsive navbar using Bootstrap in Next.js."  
-This helped bridge the gap between documentation and real-world usage by showing me examples I could experiment with.
+That gave me a working example without having to dig through multiple docs.
 
 **7. Answering a Question in Class or Discord**  
-I didn’t really use AI for this. Most Discord conversations I participated in were about due dates or assignment requirements rather than technical troubleshooting.
+Didn’t really use AI for this. Most of my Discord conversations were about due dates or assignment requirements.
 
 **8. Asking or Answering a Smart Question**  
-I occasionally used ChatGPT to polish my wording before posting a technical question, making sure it was specific and clear enough to get useful answers from classmates or instructors.
+Sometimes I’d use ChatGPT to make my questions cleaner before asking in class or posting in Discord. It was just easier to get a good answer if the question was clear.
 
 **9. Coding Example**  
 At one point, I asked ChatGPT for:  
 > "An example of a basic Next.js `src/app/page.tsx` layout."  
-It provided a working structure, which made it easier to understand how to organize components and imports.
+This gave me a better sense of how files should be organized.
 
 **10. Explaining Code**  
-If I didn’t understand a particular Next.js routing example, I would paste it into ChatGPT and ask:  
-> "Explain what’s happening in this file line-by-line."  
-This helped me quickly connect the dots between syntax and functionality.
+If I had code I didn’t fully get (like some Next.js routing examples), I’d paste it into ChatGPT and say:  
+> "Explain what’s happening here line-by-line."  
+Made it way easier to connect the dots.
 
 **11. Writing Code**  
-Copilot often completed the exact code I was about to write — such as form validation logic, loops, or database queries — without me needing to fully type it out. It didn’t replace my own logic but made the process significantly faster.
+Copilot was fast here. I’d start typing and it would sometimes finish the whole loop, query, or function I had in mind. I still knew what I wanted to write — it just saved me a few keystrokes.
 
 **12. Documenting Code**  
-When documenting functions in the DropBy project, I occasionally pasted code into ChatGPT with the request:  
+When I needed to write JSDoc comments in DropBy, I’d sometimes paste the function into ChatGPT:  
 > "Generate JSDoc comments for this function."  
-This saved time but still required review for accuracy.
+It saved time, but I always reviewed for accuracy.
 
 **13. Quality Assurance**  
-If I encountered ESLint errors, I could paste them into ChatGPT with:  
+For ESLint issues, I’d paste the code and errors into ChatGPT:  
 > "Here’s my code and the ESLint errors — fix them."  
-It often fixed the issues instantly, though I always tested afterward to ensure nothing broke.
+Quick fixes, but still had to test afterward.
 
 **14. Other Uses**  
-Being fairly new to Git, I used ChatGPT to help me understand commands for pull requests, pushing code, or handling merge conflicts:  
+Since I’m still new to Git, ChatGPT was handy for commands I didn’t fully remember:  
 > "What’s the step-by-step process for pulling the latest changes from main into my branch in Git?"  
-This gave me confidence in my workflow without spending too much time searching through different Git guides.
+Made things less intimidating than digging through Git docs.
 
 ---
 
 ## III. Impact on Learning and Understanding
-AI in ICS 314 helped me move past sticking points that might have otherwise slowed my progress for hours. It was especially helpful in **researching unfamiliar concepts** like Next.js routing, Bootstrap components, or even basic HTML — since this was my first time coding HTML in depth. Copilot kept my workflow smooth, while ChatGPT provided deeper explanations when I needed to step back and learn. Together, they improved my comprehension, allowed me to build confidence faster, and often got me out of tough spots when I was stuck for too long.
+AI in ICS 314 was like a safety net. If I got stuck for too long, I could ask a question, get unstuck, and move on. It helped me research unfamiliar concepts like Next.js routing, Bootstrap components, or even basic HTML (since this was my first real dive into HTML). Copilot kept my momentum going, and ChatGPT filled in the gaps when I needed more context. Together, they didn’t just speed me up — they made me more confident.
 
 ---
 
 ## IV. Practical Applications
-Outside of ICS 314, AI has been just as valuable. In CST-239, I’ve used it for debugging Java and quickly recalling syntax. More broadly, I use ChatGPT as a research tool for learning new skills like sports, surfing, diving, and weightlifting. It helps me keep track of step-by-step processes and even build personalized diet plans for optimal nutrition without manually calculating everything myself. In many cases, ChatGPT acts as a faster, more interactive alternative to Google — letting me find relevant information in one conversation instead of sifting through multiple websites.
+Outside ICS 314, AI has been just as useful. In CST-239, I’ve used it for Java debugging and quick syntax checks. Outside of school, I use ChatGPT to research sports, surfing, diving, and weightlifting techniques, or to create step-by-step plans like personalized diet guides. Honestly, it’s like a faster, more direct version of Google — no jumping through multiple links, just straight answers in one conversation.
 
 ---
 
 ## V. Challenges and Opportunities
-The main challenge with AI was that Copilot sometimes suggested incomplete or incorrect code, and ChatGPT occasionally provided outdated information. However, these moments became learning opportunities — I learned to double-check AI output and adapt it to my needs. In the future, I see opportunities for AI to be integrated into coursework as a deliberate skill, teaching students not just how to code, but how to work effectively with AI.
+Copilot isn’t perfect — sometimes it guesses wrong, and ChatGPT can give outdated info. But that just means I’ve learned to double-check and not blindly trust AI output. There’s a lot of potential here: AI-powered code reviews, live debugging help, and automated test writing could all be integrated into future courses.
 
 ---
 
 ## VI. Comparative Analysis
-Traditional methods like lectures and documentation build the foundational skills needed to code without assistance, while AI-enhanced methods boost efficiency and provide alternative perspectives. My best learning came from blending both — first attempting problems independently, then using AI to refine, validate, or expand my solutions.
+Traditional methods (lectures, documentation, peer help) build the foundation. AI speeds up the process and gives you other ways to solve the same problem. My best results came from combining both — trying things myself first, then using AI to polish or troubleshoot.
 
 ---
 
 ## VII. Future Considerations
-AI will likely play a greater role in real-time debugging, personalized learning paths, and automated code reviews in software engineering education. I believe future courses could explicitly teach students how to use AI critically, treating it as a skill just like version control or testing.
+AI’s role in education will only grow — I can see it being part of real-time debugging, adaptive learning systems, and even grading. But I think it should be taught like any other skill: how to use it effectively without becoming dependent on it.
 
 ---
 
 ## VIII. Conclusion
-In ICS 314, GitHub Copilot was my main AI partner, and ChatGPT acted as my occasional research assistant. Used together, they improved my productivity, deepened my understanding, and made learning more engaging. My recommendation for future courses is to guide students in AI use — not to replace independent problem-solving, but to enhance it.
+In ICS 314, GitHub Copilot was my main AI teammate, and ChatGPT was my occasional research partner. They helped me move faster, understand more, and feel less stuck. If future courses teach students how to use AI critically and effectively, I think it’ll be as essential as learning Git.
