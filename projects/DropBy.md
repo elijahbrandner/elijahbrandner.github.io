@@ -42,16 +42,17 @@ From an engineering perspective, DropBy emphasized collaborative development and
 ## Screenshots
 
 ### Landing Page
-![DropBy Landing Page](img/dropby/DropBy_LandingPage_Screenshot.jpg)
+![DropBy Landing Page](/img/dropby/DropBy_LandingPage_Screenshot.jpg)
 
 ### Browse Events
-![Browse Events](img/dropby/Browse_Events.jpg)
+![Browse Events](/img/dropby/Browse_Events.jpg)
 
 ### List an Event
-![List an Event](img/dropby/List_Events.jpg)
+![List an Event](/img/dropby/List_Events.jpg)
 
 ### RSVP Flow
-![RSVP Events](img/dropby/Events_RSVP'd.jpg)
+![RSVP Events](/img/dropby/Events_RSVP.jpg)
+
 
 ---
 
