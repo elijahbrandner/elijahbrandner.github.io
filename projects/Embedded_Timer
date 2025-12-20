@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/embedded-timer/Embedded_Timer_Board.jpg
+image: img/embedded-timer/EmbeddedTimer.jpg
 title: "Embedded Stopwatch & Countdown Timer"
 date: 2025-11-23
 published: true
@@ -93,4 +93,4 @@ Key contributions included:
 
 ## Demo & Links
 - **Demo Video:** [https://youtu.be/JK8QUs_x1eA](https://youtu.be/JK8QUs_x1eA)
-- **GitHub Repository:** https://github.com/elijahbrandner/EmbeddedTimer  
+- **GitHub Repository:** [https://github.com/elijahbrandner/EmbeddedTimer](https://github.com/elijahbrandner/EmbeddedTimer)  
