@@ -4,7 +4,7 @@ type: project
 image: img/Picture2.png
 title: "3D Scene Reconstruction with OpenGL"
 date: 2025-02-14
-published: true
+published: false
 labels:
   - Ubuntu
   - OpenGL
