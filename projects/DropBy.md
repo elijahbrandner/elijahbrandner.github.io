@@ -40,5 +40,5 @@ From an engineering perspective, DropBy emphasized collaborative development and
 ---
 
 ## Demo & Links
-- **Live Deployment:** https://teamdropbygithubio-kappa.vercel.app/  
-- **GitHub Organization:** https://github.com/teamdropby  
+- **Live Deployment:** [https://teamdropbygithubio-kappa.vercel.app/](https://teamdropbygithubio-kappa.vercel.app/)
+- **GitHub Organization:** [https://github.com/teamdropby](https://github.com/teamdropby)
