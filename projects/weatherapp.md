@@ -1,21 +1,52 @@
 ---
 layout: project
 type: project
-image: img/Weather.png
-title: "Weather App"
+image: img/weather/Weather.png
+title: "Weather App — Authenticated Full-Stack Weather Dashboard"
 date: 2025-04-27
 published: true
 labels:
   - Java
+  - Spring Boot
   - MongoDB
-  - SpringBoot
-summary: "Weather App (Spring Boot + MongoDB):
-Built a full-stack weather application with user authentication, role-based access, and real-time weather data via REST APIs. I implemented MongoDB integration and backend logic while collaborating with a remote team using GitHub."
+  - REST APIs
+  - Team Project
+summary: "Built a full-stack weather application with user authentication, role-based access control, and real-time weather data integration. Contributed primarily to backend development, MongoDB integration, and REST API logic while collaborating with a remote team."
 ---
-For our final group project in CST-339 (Advanced Java), my team built a dynamic full-stack weather application that allows users to register, log in, and search for current weather conditions by city. The application retrieves real-time data from a third-party weather API and presents it in a clean, user-friendly interface. We developed the project using Spring Boot for the backend, MongoDB for persistent storage, and RESTful services for weather data integration. Users were assigned different roles (user/admin), and session management was implemented to handle user state and secure content access.
+This **Weather App** is a full-stack web application that allows users to register, authenticate, and retrieve real-time weather information by city. The application integrates data from an external weather API and presents it through a clean, user-friendly interface while enforcing secure access through authentication and role-based permissions.
 
-As one of the back-end developers, I was responsible for setting up the MongoDB database and integrating it with our Spring Boot application. I implemented user authentication and role-based access control using encrypted credentials stored in MongoDB. I also contributed to the design and development of the REST controller that handled weather queries and external API calls. While working in a distributed team, we used GitHub for version control and task coordination, which gave me hands-on experience with pull requests, merging, and resolving conflicts in a real-world-style development workflow.
+The system supports multiple user roles, including standard users and administrators, with protected routes and session handling to ensure secure content access. The backend was built using Spring Boot, with MongoDB used for persistent storage of user credentials and application data. RESTful services were implemented to handle weather queries and external API communication.
 
-This project helped me grow in several areas, including back-end web development, NoSQL database integration, and RESTful API consumption. I also strengthened my collaboration and communication skills by working remotely with team members I had never met in person. Most importantly, I learned how to adapt when existing code or team decisions didn’t align with my original approach, which is a key part of being a professional software engineer. Overall, this project gave me valuable experience working across the full development stack and showed me the importance of balancing technical depth with practical teamwork.
+This project was developed as part of a small remote team, simulating a real-world collaborative development environment. The team coordinated development using GitHub for version control, pull requests, and issue tracking, which required frequent communication and coordination across different parts of the system.
 
-You can learn more at the [Our Groups Github Repository](https://github.com/groupa7milestone/weather_app/blob/main/README.md).
+## My Role & Contributions
+I primarily worked on the backend and data layer of the application, with a focus on authentication, database integration, and API logic.
+
+Key contributions included:
+- Designing and integrating MongoDB collections for user accounts and application data  
+- Implementing user authentication and role-based access control with encrypted credentials  
+- Developing REST controllers to handle weather search requests and external API calls  
+- Assisting with backend application structure and endpoint design  
+- Collaborating with teammates via GitHub pull requests, code reviews, and merge conflict resolution  
+
+---
+
+## Key Takeaways
+- Gained hands-on experience building backend services using Spring Boot in a team environment  
+- Learned how to integrate and manage a NoSQL database (MongoDB) within a Java-based web application  
+- Strengthened understanding of authentication, authorization, and role-based access control  
+- Improved ability to collaborate remotely using GitHub workflows, pull requests, and shared codebases  
+- Developed adaptability when integrating with existing code and team design decisions  
+
+---
+
+## Potential Enhancements
+- Adding caching to reduce redundant external weather API calls  
+- Improving frontend visualizations for weather data and forecasts  
+- Introducing location-based weather detection using browser APIs  
+- Enhancing security with token-based authentication (e.g., JWT)  
+
+---
+
+## Demo & Links
+- **Source Code:** [https://github.com/groupa7milestone/weather_app](https://github.com/groupa7milestone/weather_app)
