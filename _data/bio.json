@@ -1,31 +1,41 @@
 {
   "basics": {
     "name": "Elijah Brandner",
-    "label": "Student",
+    "label": "Software Engineering Student | Full-Stack & Systems Projects",
     "picture": "https://github.com/elijahbrandner.png",
     "email": "elijahbrandner1@gmail.com",
     "website": "https://elijahbrandner.github.io",
-    "summary": "I am studying for a B.S. in Software Engineering at Grand Canyon University. I expect to graduate in Summer, 2025.",
+    "summary": "Software engineering student with experience building full-stack applications, systems-level projects, and graphics-based programs. I enjoy working across layers of computing—from application-level development to lower-level systems and emerging interests in embedded systems and AI/ML. Currently focused on strengthening full-stack portfolio projects while expanding my skills in systems, computer engineering concepts, and applied AI.
+",
     "location": { "address": "", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "elijahbrandner", "url": "http://github.com/elijahbrandner" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/elijahbrandner" }
+      { "network": "linkedin", "username": "elijahbrandner", "url": "http://linkedin.com/in/elijahbrandner" }
     ]
   },
   "interests": [
     { "name": "Web Development" },
     { "name": "Artificial Intelligence and Machine Learning" },
-    { "name": "Human-Computer Interaction" },
-    { "name": "3D Graphics" }
+    { "name": "Embedded Systems" },
+    { "name": "Systems Programming" },
+    { "name": "Computer Graphics" }
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Python" ]
+      "name": "Languages",
+      "keywords": [ "Java", "C++", "Python", "TypeScript", "JavaScript", "SQL" ]
+    },
+    {
+      "name": "Frameworks",
+      "keywords": ["Spring Boot", "Flask", "React", "Next.js", "OpenGL", "Bootstrap""]
+    },
+    {
+      "name": "Databases",
+      "keywords": ["MongoDB", "PostgreSQL", "SQLite"]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "Git & GitHub", "Linux/Unix", "VS Code", "Docker (basic)", "GitHub Actions (CI/CD)" ]
     }
   ],
   "education": [
@@ -34,7 +44,7 @@
       "area": "Software Engineering (expected Summer, 2025)",
       "studyType": "B.S.",
       "startDate": "2022-09-01",
-      "endDate": "Present",
+      "endDate": "2026-08-15",
       "courses": [
       ]
     }
