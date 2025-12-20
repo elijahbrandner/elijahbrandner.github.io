@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/weather/Weather.png
+image: img/Weather.png
 title: "Weather App — Authenticated Full-Stack Weather Dashboard"
 date: 2025-04-27
 published: true
