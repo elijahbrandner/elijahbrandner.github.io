@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/DropBy_LandingPage_Screenshot.jpg
+image: img/dropby/DropBy-Logo.png
 title: "DropBy — Local Event Discovery & RSVP Platform"
 date: 2025-08-01
 published: true
@@ -36,6 +36,22 @@ From an engineering perspective, DropBy emphasized collaborative development and
 - Expanding search and filtering with location-based queries and more granular categories  
 - Integrating calendar exports (e.g., Google Calendar) for saved events  
 - Improving scalability and performance for larger numbers of events and users  
+
+---
+
+## Screenshots
+
+### Landing Page
+![DropBy Landing Page](img/dropby/DropBy_LandingPage_Screenshot.jpg)
+
+### Browse Events
+![Browse Events](img/dropby/Browse_Events.jpg)
+
+### List an Event
+![List an Event](img/dropby/List_Events.jpg)
+
+### RSVP Flow
+![RSVP Events](img/dropby/Events_RSVP'd.jpg)
 
 ---
 
