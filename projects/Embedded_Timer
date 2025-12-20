@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/embedded-timer/EmbeddedTimer.jpg
+image: img/EmbeddedTimer/EmbeddedTimer.jpg
 title: "Embedded Stopwatch & Countdown Timer"
 date: 2025-11-23
 published: true
