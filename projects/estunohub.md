@@ -32,7 +32,7 @@ At the time of writing, the project is approximately **35% complete**, with hard
 
 ## System Architecture
 Estuno Hub follows a **locally hosted, three-tier architecture**:
-<img src="/img/estunohub/SystemArchitectureDesign.drawio.png"
+<img src="/img/estunohub/SystemDesign.drawio.png"
      alt="Estuno Hub System Architecture"
      style="max-width: 75%; height: auto; display: block; margin: 0 auto 1.5rem auto;">
 
