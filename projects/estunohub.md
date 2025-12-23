@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: /img/estuno/estuno_prototype.png
+image: /img/estunohub/estuno_prototype.png
 title: "Estuno Hub — Offline Adaptive Learning Platform (Capstone Project)"
 date: 2025-11-02
 published: true
@@ -32,7 +32,7 @@ At the time of writing, the project is approximately **35% complete**, with hard
 
 ## System Architecture
 Estuno Hub follows a **locally hosted, three-tier architecture**:
-<img src="/img/estuno/SystemArchitectureDesign.drawio.png"
+<img src="/img/estunohub/SystemArchitectureDesign.drawio.png"
      alt="Estuno Hub System Architecture"
      style="max-width: 75%; height: auto; display: block; margin: 0 auto 1.5rem auto;">
 
@@ -40,7 +40,7 @@ Estuno Hub follows a **locally hosted, three-tier architecture**:
 - **Raspberry Pi 5** acting as the central processor and Wi-Fi access point  
 - **NVMe SSD via PCIe HAT** for high-speed local storage and low-latency access  
 - Active cooling and enclosed hardware for stable classroom operation
-<img src="/img/estuno/EstunoHubHardwarePrototype.png"
+<img src="/img/estunohub/EstunoHubHardwarePrototype.png"
      alt="Estuno Hub Hardware Prototype"
      style="max-width: 75%; height: auto; display: block; margin: 0 auto 1.5rem auto;">
 
@@ -51,7 +51,7 @@ Estuno Hub follows a **locally hosted, three-tier architecture**:
 - **Networking:** Private offline Wi-Fi network using hostapd and dnsmasq  
 
 All components operate entirely within the local network, with no external API calls or cloud dependencies.
-<img src="/img/estuno/estuno_wireframe_teacher.png"
+<img src="/img/estunohub/estuno_wireframe_teacher.png"
      alt="Teacher Dashboard Wireframe"
      style="max-width: 75%; height: auto; display: block; margin: 0 auto 1.5rem auto;">
 
@@ -64,7 +64,7 @@ The platform provides **separate dashboards** for teachers and students:
 - Upload lesson materials and assignments  
 - View long-term engagement trends and progress summaries  
 - Monitor performance patterns without real-time surveillance
-<img src="/img/estuno/TeacherWireframe.png"
+<img src="/img/estunohub/TeacherWireframe.png"
      alt="Teacher Dashboard Wireframe"
      style="max-width: 75%; height: auto; display: block; margin: 0 auto 1.5rem auto;">
 
@@ -74,7 +74,7 @@ The platform provides **separate dashboards** for teachers and students:
 - Interact with a sensory-friendly interface designed to reduce cognitive overload  
 
 Accessibility decisions were guided by psychology consultants and aligned with ISO 9241 and WCAG-informed principles.
-<img src="/img/estuno/StudentWireframe.png"
+<img src="/img/estunohub/StudentWireframe.png"
      alt="Student Dashboard Wireframe"
      style="max-width: 75%; height: auto; display: block; margin: 0 auto 1.5rem auto;">
 
