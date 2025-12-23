@@ -51,9 +51,6 @@ Estuno Hub follows a **locally hosted, three-tier architecture**:
 - **Networking:** Private offline Wi-Fi network using hostapd and dnsmasq  
 
 All components operate entirely within the local network, with no external API calls or cloud dependencies.
-<img src="/img/estunohub/estuno_wireframe_teacher.png"
-     alt="Teacher Dashboard Wireframe"
-     style="max-width: 75%; height: auto; display: block; margin: 0 auto 1.5rem auto;">
 
 ---
 
