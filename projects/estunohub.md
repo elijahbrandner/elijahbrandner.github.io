@@ -32,7 +32,7 @@ At the time of writing, the project is approximately **35% complete**, with hard
 
 ## System Architecture
 Estuno Hub follows a **locally hosted, three-tier architecture**:
-<img src="/img/estuno/estuno_architecture.png"
+<img src="/img/estuno/SystemArchitectureDesign.drawio.png"
      alt="Estuno Hub System Architecture"
      style="max-width: 75%; height: auto; display: block; margin: 0 auto 1.5rem auto;">
 
@@ -64,7 +64,7 @@ The platform provides **separate dashboards** for teachers and students:
 - Upload lesson materials and assignments  
 - View long-term engagement trends and progress summaries  
 - Monitor performance patterns without real-time surveillance
-<img src="/img/estuno/estuno_wireframe_teacher.png"
+<img src="/img/estuno/TeacherWireframe.png"
      alt="Teacher Dashboard Wireframe"
      style="max-width: 75%; height: auto; display: block; margin: 0 auto 1.5rem auto;">
 
@@ -74,7 +74,7 @@ The platform provides **separate dashboards** for teachers and students:
 - Interact with a sensory-friendly interface designed to reduce cognitive overload  
 
 Accessibility decisions were guided by psychology consultants and aligned with ISO 9241 and WCAG-informed principles.
-<img src="/img/estuno/estuno_wireframe_student.png"
+<img src="/img/estuno/StudentWireframe.png"
      alt="Student Dashboard Wireframe"
      style="max-width: 75%; height: auto; display: block; margin: 0 auto 1.5rem auto;">
 
