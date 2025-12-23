@@ -97,13 +97,18 @@ Systems are modular and coordinated through a closed gameplay loop:
 ---
 
 ## My Role & Contributions
-This was a **team-based final integration project**. My contributions included:
-- Implementing core gameplay systems and system coordination  
-- Designing and implementing the pearl collection and respawn system  
-- Integrating XR-optimized UI elements  
-- Supporting locomotion and interaction logic  
-- Assisting with performance optimization and modular system design  
-- Contributing to overall gameplay balance and final integration  
+This was a team-based final integration project, and my primary contributions focused on **system integration, gameplay design, and AI behavior tuning**.
+
+Key contributions included:
+- Identifying, selecting, and integrating third-party and custom assets into the Unity project  
+- Assisting in the creative design and layout of the maze environment to support tension-based gameplay  
+- Co-designing core gameplay logic, including player objectives, failure conditions, and replay flow  
+- Integrating Medusa’s AI behavior with animation loops, player targeting, and movement systems  
+- Tuning Medusa’s speed, pursuit behavior, and interaction timing to balance difficulty and immersion  
+- Connecting Medusa’s attack behavior to the player health system and UI health bar updates  
+- Assisting with the pearl collection system and co-designing the pearl respawn logic to support replayability  
+
+These contributions required coordinating multiple subsystems—AI navigation, animation, player interaction, UI feedback, and environment design—to ensure the final experience felt cohesive, responsive, and immersive in VR.
 
 ---
 
