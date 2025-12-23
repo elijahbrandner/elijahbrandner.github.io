@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/medusa/unitylogo.png
+image: img/unitylogo.png
 title: "Medusa’s Maze — VR Survival Game (Unity XR)"
 date: 2025-12-14
 published: true
