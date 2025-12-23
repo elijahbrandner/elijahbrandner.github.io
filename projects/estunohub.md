@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: /img/estunohub/EstunoHubHardwarePrototype.png
+image: /img/estunohub/estuno_prototype.png
 title: "Estuno Hub — Offline Adaptive Learning Platform (Capstone Project)"
 date: 2025-11-02
 published: true
